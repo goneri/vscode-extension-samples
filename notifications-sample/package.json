@@ -47,6 +47,11 @@
 				"command": "notifications-sample.showAll",
 				"title": "Show All Notifications",
 				"category": "Notifications Sample"
+			},
+			{
+				"command": "notifications-sample.s.OPEN_LIGHTSPEED_TRIAL_PAGE",
+				"title": "Lightspeed - Open Triage Page",
+				"category": "Notifications Sample"
 			}
 		]
 	},
